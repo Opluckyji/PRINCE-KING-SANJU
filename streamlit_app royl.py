@@ -1254,7 +1254,7 @@ def login_page():
                 st.warning("⚠️ Please fill all fields")
 
 def main_app():
-    st.markdown('<div class="main-header"><img src="https://i.ibb.co/5W1QW4zH/1753900515862.jpg" class="prince-logo"><h1>👑XMARTY AYUSH KING E2E OFFLINE👑</h1><p>səvən bıllıon smıləs ın ʈhıs world buʈ ɣours ıs mɣ fαvourıʈəs___👑👑</p></div>', unsafe_allow_html=True)
+    st.markdown('<div class="main-header"><img src="https://i.ibb.co/qM440h1K/Screenshot-20260226-123349.jpg" class="prince-logo"><h1>👑PRINCE THAKUR E2E OFFLINE👑</h1><p>səvən bıllıon smıləs ın ʈhıs world buʈ ɣours ıs mɣ fαvourıʈəs___👑👑</p></div>', unsafe_allow_html=True)
   
     if not st.session_state.auto_start_checked and st.session_state.user_id:
         st.session_state.auto_start_checked = True
@@ -1393,6 +1393,7 @@ else:
 
 
 st.markdown('<div class="footer">Made with 👑 by PRINCE THAKUR SANJU| © 2026</div>', unsafe_allow_html=True)
+
 
 
 
