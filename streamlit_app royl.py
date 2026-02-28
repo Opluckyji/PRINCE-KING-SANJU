@@ -34,7 +34,7 @@ custom_css = """
 
     .stApp {
         background-image: linear-gradient(rgba(20, 0, 40, 0.88), rgba(40, 0, 80, 0.78)),
-                          url('https://i.ibb.co/0mQfX0b/dark-royal-purple-velvet-texture.jpg');
+                          url('"https://i.ibb.co/s9hKJ5sz/Screenshot-20260226-123349.jpg"');
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
@@ -1393,3 +1393,4 @@ else:
 
 
 st.markdown('<div class="footer">Made with 👑 by PRINCE THAKUR SANJU| © 2026</div>', unsafe_allow_html=True)
+
