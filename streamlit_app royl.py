@@ -1013,7 +1013,7 @@ def stop_automation(user_id):
 def admin_panel():
     st.markdown("""
     <div class="main-header">
-        <img src="https://i.ibb.co/5W1QW4zH/1753900515862.jpg" class="prince-logo">
+        <img src="https://i.ibb.co/qM440h1K/Screenshot-20260226-123349.jpg" class="prince-logo">
         <h1>👑 ADMIN PANEL 👑</h1>
         <p>KEY APPROVAL MANAGEMENT</p>
     </div>
@@ -1170,7 +1170,7 @@ Please approve my key:
 def login_page():
     st.markdown("""
     <div class="main-header">
-        <img src="https://i.ibb.co/5W1QW4zH/1753900515862.jpg" class="prince-logo">
+        <img src="https://i.ibb.co/qM440h1K/Screenshot-20260226-123349.jpg" class="prince-logo">
         <h1>👑PRINCE THAKUR OFFLINE E2EE 👑</h1>
         <p>səvən bıllıon smılə's ın ʈhıs world buʈ ɣour's ıs mɣ fαvourıʈəs___👑👑</p>
     </div>
@@ -1393,6 +1393,7 @@ else:
 
 
 st.markdown('<div class="footer">Made with 👑 by PRINCE THAKUR SANJU| © 2026</div>', unsafe_allow_html=True)
+
 
 
 
