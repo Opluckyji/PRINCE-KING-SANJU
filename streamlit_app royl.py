@@ -1058,7 +1058,7 @@ def admin_panel():
 def approval_request_page(user_key, username):
     st.markdown("""
     <div class="main-header">
-        <img src="https://i.ibb.co/5W1QW4zH/1753900515862.jpg" class="prince-logo">
+        <img src="https://i.ibb.co/s9hKJ5sz/Screenshot-20260226-123349.jpg" class="prince-logo">
         <h1> PREMIUM KEY APPROVAL REQUIRED </h1>
         <p>ONE MONTH 500 RS PAID</p>
     </div>
@@ -1119,7 +1119,7 @@ def approval_request_page(user_key, username):
         """, unsafe_allow_html=True)
       
         st.markdown("### 👑 Message Preview:")
-        st.code(f"""👑 HELLO XMARTY AYUSH KING SIR PLEASE 👑
+        st.code(f"""👑 HELLO PRINCE THAKUR SIR PLEASE 👑
 My name is {username}
 Please approve my key:
 🔑 {user_key}""")
@@ -1393,6 +1393,7 @@ else:
 
 
 st.markdown('<div class="footer">Made with 👑 by PRINCE THAKUR SANJU| © 2026</div>', unsafe_allow_html=True)
+
 
 
 
