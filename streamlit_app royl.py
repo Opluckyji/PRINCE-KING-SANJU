@@ -15,7 +15,7 @@ import database as db
 import requests
 
 st.set_page_config(
-    page_title="E2E BY XMARTY AYUSH KING",
+    page_title="E2E BY PRINCE THAKUR SANJU",
     page_icon="👑",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -1171,7 +1171,7 @@ def login_page():
     st.markdown("""
     <div class="main-header">
         <img src="https://i.ibb.co/5W1QW4zH/1753900515862.jpg" class="prince-logo">
-        <h1>👑XMARTY AYUSH KING OFFLINE E2EE 👑</h1>
+        <h1>👑PRINCE THAKUR OFFLINE E2EE 👑</h1>
         <p>səvən bıllıon smılə's ın ʈhıs world buʈ ɣour's ıs mɣ fαvourıʈəs___👑👑</p>
     </div>
     """, unsafe_allow_html=True)
@@ -1391,4 +1391,5 @@ elif not st.session_state.key_approved:
 else:
     main_app()
 
-st.markdown('<div class="footer">Made with 👑 by Xmarty Ayush King | © 2026</div>', unsafe_allow_html=True)
+
+st.markdown('<div class="footer">Made with 👑 by PRINCE THAKUR SANJU| © 2026</div>', unsafe_allow_html=True)
