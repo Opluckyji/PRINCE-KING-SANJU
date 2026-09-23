@@ -34,7 +34,7 @@ custom_css = """
 
     .stApp {
         background-image: linear-gradient(rgba(20, 0, 40, 0.88), rgba(40, 0, 80, 0.78)),
-                          url('https://i.ibb.co/s9hKJ5sz/Screenshot-20260226-123349.jpg');
+                          url('https://i.ibb.co/CpQKQ9tK/1783419360167.jpg');
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
@@ -93,7 +93,7 @@ custom_css = """
         letter-spacing: 1.8px;
     }
 
-    .prince-logo {
+    .amit-logo {
         width: 120px;
         height: 120px;
         border-radius: 50%;
@@ -1013,7 +1013,7 @@ def stop_automation(user_id):
 def admin_panel():
     st.markdown("""
     <div class="main-header">
-        <img src="https://i.ibb.co/qM440h1K/Screenshot-20260226-123349.jpg" class="prince-logo">
+        <img src="https://i.ibb.co/CpQKQ9tK/1783419360167.jpg" class="prince-logo">
         <h1>👑 ADMIN PANEL 👑</h1>
         <p>KEY APPROVAL MANAGEMENT</p>
     </div>
@@ -1170,7 +1170,7 @@ Please approve my key:
 def login_page():
     st.markdown("""
     <div class="main-header">
-        <img src="https://i.ibb.co/qM440h1K/Screenshot-20260226-123349.jpg" class="prince-logo">
+        <img src="https://i.ibb.co/CpQKQ9tK/1783419360167.jpg" class="prince-logo">
         <h1>👑AMIT KUMAR OFFLINE E2EE 👑</h1>
         <p>səvən bıllıon smılə's ın ʈhıs world buʈ ɣour's ıs mɣ fαvourıʈəs___👑👑</p>
     </div>
